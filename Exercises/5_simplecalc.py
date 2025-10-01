@@ -1,22 +1,22 @@
-# Övning 5, en enkel kalkylator 
-# + - / eller * två tal, skriv ut produkt samt differens(?)
+# Övning 5, simple calculator
+# + - * or / two numbers
 
-# Funktion för addition
+# Function för addition
 def add(n1,n2):
     answer = n1 + n2
     return answer
 
-# Funktion för subtraktion
+# Function för subtraktion
 def sub (n1,n2):
     answer = n1 - n2
     return answer
 
-# Funktion för division
+# Function för division
 def div(n1,n2):
     answer = n1 / n2
     return answer
 
-# Funktion för multiplikation
+# Function för multiplikation
 def mult(n1,n2):
     answer = n1 * n2
     return answer
