@@ -43,7 +43,7 @@ elif user == 4:
     print(n1, "*", n2, "=", mult(n1,n2))
 else:
     print("Invalid input.")
-    
+
 
 
 
