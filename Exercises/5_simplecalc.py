@@ -7,7 +7,7 @@ def add(n1,n2):
     return answer
 
 # Function for subtraction
-def sub (n1,n2):
+def sub(n1,n2):
     answer = n1 - n2
     return answer
 
@@ -20,7 +20,6 @@ def div(n1,n2):
 def mult(n1,n2):
     answer = n1 * n2
     return answer
-
 
 print("Select operation -\n"
         "1. Add\n"
