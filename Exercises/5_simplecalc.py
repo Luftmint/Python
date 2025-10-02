@@ -1,22 +1,22 @@
 # Övning 5, simple calculator
 # + - * or / two numbers
 
-# Function för addition
+# Function for addition
 def add(n1,n2):
     answer = n1 + n2
     return answer
 
-# Function för subtraktion
+# Function for subtraction
 def sub (n1,n2):
     answer = n1 - n2
     return answer
 
-# Function för division
+# Function for division
 def div(n1,n2):
     answer = n1 / n2
     return answer
 
-# Function för multiplikation
+# Function for multiplication
 def mult(n1,n2):
     answer = n1 * n2
     return answer
