@@ -1,5 +1,5 @@
 # Övning 3, root checker,
-# Import sys and subprocess,
+# Import subprocess,
 import subprocess # This is so that the 'whoami' code gets captured and not printed
 
 
